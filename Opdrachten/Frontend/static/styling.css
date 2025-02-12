@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    background-color: navy;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font: 14px arial, sans-serif;
+    padding: 20px 24px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: blue;
+  } 
